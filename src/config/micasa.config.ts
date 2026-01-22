@@ -286,7 +286,7 @@ export const micasaConfig = {
   ],
 
   // ========================
-  // THEME CONFIGURATION
+  // THEME CONFIGURATION TEST
   // ========================
   theme: {
     colors: {
